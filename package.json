@@ -1,0 +1,21 @@
+{
+  "name": "forestwood",
+  "displayName": "forestwood",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Forest Wood",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Forest Wood-color-theme.json"
+      }
+    ]
+  }
+}
