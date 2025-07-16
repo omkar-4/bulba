@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "description": "A forestwood-style and bulbasaur-pokemon inspired dark theme for VS-Code. It's carefully designed keeping visual hierarchy in mind with custom color palette to tune your attention towards the syntax which you'd pay most attention to progressively muting the rest which requires less attention.",
   "publisher": "omkariyer",
-  "icon": "./icon.png",
+  "icon": "icon.png",
   "author": {
     "name": "Omkar Iyer"
   },
