@@ -1,7 +1,7 @@
 {
-  "name": "forestwood",
-  "displayName": "forestwood",
-  "description": "",
+  "name": "bulba",
+  "displayName": "bulba",
+  "description": "A forestwood-style and bulbasaur-pokemon inspired dark theme for VS-Code. It's carefully designed keeping visual hierarchy in mind with custom color palette to tune your attention towards the syntax which you'd pay most attention to progressively muting the rest which requires less attention.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.101.0"
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Forest Wood",
+        "label": "bulba",
         "uiTheme": "vs-dark",
-        "path": "./themes/Forest Wood-color-theme.json"
+        "path": "./themes/bulba-color-theme.json"
       }
     ]
   }
